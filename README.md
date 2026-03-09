@@ -22,7 +22,7 @@
 
 ```bash
 # Клонування репозиторію
-git clone <repository-url>
+git clone https://github.com/Sergei-Monastyretskiy/lessonJS_38.git
 
 # Перехід до директорії проекту
 cd lessonJS_37
